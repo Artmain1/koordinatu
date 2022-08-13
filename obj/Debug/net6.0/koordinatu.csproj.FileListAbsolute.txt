@@ -1,0 +1,15 @@
+C:\12\C#\koordinatu\bin\Debug\net6.0\koordinatu.exe
+C:\12\C#\koordinatu\bin\Debug\net6.0\koordinatu.deps.json
+C:\12\C#\koordinatu\bin\Debug\net6.0\koordinatu.runtimeconfig.json
+C:\12\C#\koordinatu\bin\Debug\net6.0\koordinatu.dll
+C:\12\C#\koordinatu\bin\Debug\net6.0\koordinatu.pdb
+C:\12\C#\koordinatu\obj\Debug\net6.0\koordinatu.csproj.AssemblyReference.cache
+C:\12\C#\koordinatu\obj\Debug\net6.0\koordinatu.GeneratedMSBuildEditorConfig.editorconfig
+C:\12\C#\koordinatu\obj\Debug\net6.0\koordinatu.AssemblyInfoInputs.cache
+C:\12\C#\koordinatu\obj\Debug\net6.0\koordinatu.AssemblyInfo.cs
+C:\12\C#\koordinatu\obj\Debug\net6.0\koordinatu.csproj.CoreCompileInputs.cache
+C:\12\C#\koordinatu\obj\Debug\net6.0\koordinatu.dll
+C:\12\C#\koordinatu\obj\Debug\net6.0\refint\koordinatu.dll
+C:\12\C#\koordinatu\obj\Debug\net6.0\koordinatu.pdb
+C:\12\C#\koordinatu\obj\Debug\net6.0\koordinatu.genruntimeconfig.cache
+C:\12\C#\koordinatu\obj\Debug\net6.0\ref\koordinatu.dll
